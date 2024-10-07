@@ -6,3 +6,6 @@ HOST,stream1.misakaf.org,Emby
 HOST,stream2.misakaf.org,Emby
 HOST,stream3.misakaf.org,Emby
 HOST,stream4.misakaf.org,Emby
+HOST,line.emby.moe,Emby
+HOST,line.xmsl.org,Emby
+HOST,pm.xmsl.org,Emby
