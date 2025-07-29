@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&486037",group-title="「虎牙」dota2",Maybe
 https://www.goodiptv.club/huya/211888
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_af6aee7e18dd73a54cd349698dfa12aa.jpeg?from=3067671334",group-title="「虎牙」dota2",Pis
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_af6aee7e18dd73a54cd349698dfa12aa.jpeg?from=3067671334",group-title="「抖音」dota",Pis
 https://www.goodiptv.club/douyin/489648167418
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&486037",group-title="「虎牙」dota2",大熊
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ef2914aec04be90f3111f04573c37540.jpeg?from=3067671334",group-title="「抖音」dota",小乖
+https://www.goodiptv.club/douyin/595941928563
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/4f/96175b17a758f984dec1429b593963_180_135.jpg?1548932096&487165",group-title="「虎牙」dota",大熊
 https://www.goodiptv.club/huya/585800
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/11/c8b4b1633dd05c234ae64a1810657b_180_135.jpg?1696141111",group-title="「虎牙」dota",杨凯
+https://www.goodiptv.club/huya/991159
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&486037",group-title="「虎牙」dota2",dota赛事
 https://www.goodiptv.club/huya/660118
