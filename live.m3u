@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&486037",group-title="DOTA2",Maybe
-https://www.goodiptv.club/huya/211888
 #EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_af6aee7e18dd73a54cd349698dfa12aa.jpeg?from=3067671334",group-title="dota",Pis
 https://www.goodiptv.club/douyin/489648167418
 #EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ef2914aec04be90f3111f04573c37540.jpeg?from=3067671334",group-title="dota",小乖
@@ -11,10 +9,12 @@ https://www.goodiptv.club/huya/585800
 https://www.goodiptv.club/huya/991159
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655" group-title="天天吃鸡", 托马斯CzH
 https://www.goodiptv.club/huya/20641
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655" group-title="天天吃鸡", 新颖-颖哥
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/dd/b7812a7b2fbee4c665886f284efda4_180_135.jpg?1574605596&487281" group-title="天天吃鸡", 新颖-颖哥
 https://www.goodiptv.club/huya/52168
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/92/36f269f4bf017fb06ac06784a3ef9c_180_135.jpg?1552195655" group-title="天天吃鸡", 姜姜好lucky
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/ef/304bb4d952c5b8d9c8fbaca4eadde3_180_135.jpg?1752133352&487281" group-title="天天吃鸡", 姜姜好lucky
 https://www.goodiptv.club/huya/132463
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&486037",group-title="DOTA2",Maybe
+https://www.goodiptv.club/huya/211888
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201803/23/17/faa711e232041d7525a1bd695bf8fa8e_middle.jpg" group-title="DOTA2", yyfyyf
 https://www.goodiptv.club/douyu/9999
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_middle.jpg" group-title="DOTA2", 龚建ZSMJ
@@ -23,3 +23,5 @@ https://www.goodiptv.club/douyu/52876
 https://www.goodiptv.club/douyu/73965
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/e54172bc18c84d339075bbd07975e2b6_big.jpg" group-title="DOTA2", 艾琳bigbaby
 https://www.goodiptv.club/douyu/10639765
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6fa5859ec74b4ef19fbc735f0f2abc33_middle.jpg" group-title="DOTA2", 刘嘉俊Sylar1
+https://www.goodiptv.club/live/douyu/762484
