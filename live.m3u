@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_af6aee7e18dd73a54cd349698dfa12aa.jpeg?from=3067671334",group-title="dota",Pis
-https://www.goodiptv.club/douyin/489648167418
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ef2914aec04be90f3111f04573c37540.jpeg?from=3067671334",group-title="dota",小乖
-https://www.goodiptv.club/douyin/595941928563
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/4f/96175b17a758f984dec1429b593963_180_135.jpg?1548932096&487165",group-title="dota",大熊
 https://www.goodiptv.club/huya/585800
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/ce/cd9b2f525bb84febfc22fff478f2f6_180_135.jpg?1481219124&487981",group-title="dota",荒年
+https://www.goodiptv.club/huya/676673
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/11/c8b4b1633dd05c234ae64a1810657b_180_135.jpg?1696141111",group-title="dota",杨凯
 https://www.goodiptv.club/huya/991159
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/5e/0d9a4b47df646c34372db0f4b7d5ee_180_135.jpg?1735467545&487760",group-title="dota",冥界
@@ -27,3 +25,7 @@ https://www.goodiptv.club/douyu/73965
 https://www.goodiptv.club/douyu/10639765
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6fa5859ec74b4ef19fbc735f0f2abc33_middle.jpg" group-title="DOTA2", 刘嘉俊Sylar1
 https://www.goodiptv.club/douyu/762484
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_af6aee7e18dd73a54cd349698dfa12aa.jpeg?from=3067671334",group-title="dota",Pis
+https://www.goodiptv.club/douyin/489648167418
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ef2914aec04be90f3111f04573c37540.jpeg?from=3067671334",group-title="dota",小乖
+https://www.goodiptv.club/douyin/595941928563
