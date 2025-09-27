@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/4f/96175b17a758f984dec1429b593963_180_135.jpg?1548932096&487165",group-title="dota",大熊
 https://www.goodiptv.club/huya/585800
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/4f/96175b17a758f984dec1429b593963_180_135.jpg?1548932096&487165",group-title="dota",大熊
+http://158.179.193.247:35455/huya/585800
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/ce/cd9b2f525bb84febfc22fff478f2f6_180_135.jpg?1481219124&487981",group-title="dota",荒年
 https://www.goodiptv.club/huya/676673
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/11/c8b4b1633dd05c234ae64a1810657b_180_135.jpg?1696141111",group-title="dota",杨凯
