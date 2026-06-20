@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oYGxAIpARQBNDLfBAEPeAyaEbhAAE7Af3QIwAB.jpeg?from=2956013662",group-title="dota",大熊
+http://158.179.193.247:35455/douyin/rid/34180561717
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oYGxAIpARQBNDLfBAEPeAyaEbhAAE7Af3QIwAB.jpeg?from=2956013662",group-title="dota"大熊
+https://lunbo.v1.mk/douyin/rid/34180561717
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/4f/96175b17a758f984dec1429b593963_180_135.jpg?1548932096&487165",group-title="dota",大熊
 http://158.179.193.247:35455/huya/585800
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/4f/96175b17a758f984dec1429b593963_180_135.jpg?1548932096&487165",group-title="dota",大熊
